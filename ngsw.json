@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1691381548217,
+  "timestamp": 1691381886858,
   "index": "https:/WahidinAlambiyah.github.io/portfolioangular/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "https:/WahidinAlambiyah.github.io/portfolioangular/favicon.ico",
         "https:/WahidinAlambiyah.github.io/portfolioangular/index.html",
-        "https:/WahidinAlambiyah.github.io/portfolioangular/main.93c256ec16adf435.js",
+        "https:/WahidinAlambiyah.github.io/portfolioangular/main.2bb33dce941014f9.js",
         "https:/WahidinAlambiyah.github.io/portfolioangular/manifest.webmanifest",
-        "https:/WahidinAlambiyah.github.io/portfolioangular/polyfills.b023f0c90a74d353.js",
-        "https:/WahidinAlambiyah.github.io/portfolioangular/runtime.4ad7a1d062b8043c.js",
+        "https:/WahidinAlambiyah.github.io/portfolioangular/polyfills.f9fb7c1bb54b8746.js",
+        "https:/WahidinAlambiyah.github.io/portfolioangular/runtime.87c70edd1baad6b0.js",
         "https:/WahidinAlambiyah.github.io/portfolioangular/scripts.8c844e0f4a27dcd1.js",
         "https:/WahidinAlambiyah.github.io/portfolioangular/styles.4724934ebfd13c1b.css"
       ],
@@ -260,8 +260,8 @@
     "https:/WahidinAlambiyah.github.io/portfolioangular/assets/fonts/SFMono/SFMono-SemiboldItalic.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
     "https:/WahidinAlambiyah.github.io/portfolioangular/assets/fonts/SFMono/SFMono-SemiboldItalic.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "https:/WahidinAlambiyah.github.io/portfolioangular/assets/fonts/SFMono/stylesheet.css": "9d845bf2b6a9e53e38bfc797758fbe38c2b99470",
-    "https:/WahidinAlambiyah.github.io/portfolioangular/assets/i18n/en.json": "3aef957def76285232cca6631f9d72887c534581",
-    "https:/WahidinAlambiyah.github.io/portfolioangular/assets/i18n/es.json": "c8a40bb3186266a32b787daf659a99710ac9ee6d",
+    "https:/WahidinAlambiyah.github.io/portfolioangular/assets/i18n/en.json": "e224e3c4c812c55f71a370f63cdbfe371477e6e9",
+    "https:/WahidinAlambiyah.github.io/portfolioangular/assets/i18n/es.json": "97fd569e3b871add72cfba15ed1f3de639c0ea07",
     "https:/WahidinAlambiyah.github.io/portfolioangular/assets/icons/cv plantilla.pdf": "566ecef3024cc9a771c7c80420a3726793a1e26d",
     "https:/WahidinAlambiyah.github.io/portfolioangular/assets/icons/folder.svg": "dd4a9b05099f663d793d10a53326d18d18e23d29",
     "https:/WahidinAlambiyah.github.io/portfolioangular/assets/icons/icon-128x128.png": "6ec621358618a961643b4ad9552b2e181e72ac8e",
@@ -332,12 +332,12 @@
     "https:/WahidinAlambiyah.github.io/portfolioangular/fa-solid-900.6bcd6c9c0a9fcfbf.woff2": "a9922842a120a7f1eaced667480c5e185a106d69",
     "https:/WahidinAlambiyah.github.io/portfolioangular/fa-solid-900.9d21645b52658faa.svg": "33fe5758f3992d8da2635c4fa230b54376dd18d1",
     "https:/WahidinAlambiyah.github.io/portfolioangular/favicon.ico": "216416b0e8efb71cc8e66e11cc40baf206704576",
-    "https:/WahidinAlambiyah.github.io/portfolioangular/index.html": "2919229cf3b3f6b34ca4702df971682ac5797fdc",
-    "https:/WahidinAlambiyah.github.io/portfolioangular/main.93c256ec16adf435.js": "160832ae878248092e1251b63a3e43d6866775bb",
-    "https:/WahidinAlambiyah.github.io/portfolioangular/manifest.webmanifest": "d9e92565b3be092fe728cd4c269af5e866223f8f",
+    "https:/WahidinAlambiyah.github.io/portfolioangular/index.html": "bdd668ac6350bc18d5869c2b09814175696f4e9b",
+    "https:/WahidinAlambiyah.github.io/portfolioangular/main.2bb33dce941014f9.js": "908109f577f8b101fb13e072cf0e9c73e63ea526",
+    "https:/WahidinAlambiyah.github.io/portfolioangular/manifest.webmanifest": "bbb3de38951a3c55b42ce04e1d78171442d0e341",
     "https:/WahidinAlambiyah.github.io/portfolioangular/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
-    "https:/WahidinAlambiyah.github.io/portfolioangular/polyfills.b023f0c90a74d353.js": "1877be2379348ee258cae3552261d597d62d5d79",
-    "https:/WahidinAlambiyah.github.io/portfolioangular/runtime.4ad7a1d062b8043c.js": "923274de45dd331f029a65e467779b3bfa099941",
+    "https:/WahidinAlambiyah.github.io/portfolioangular/polyfills.f9fb7c1bb54b8746.js": "191db1283d1c2d6a61c1b52e3fb2f91622c2e146",
+    "https:/WahidinAlambiyah.github.io/portfolioangular/runtime.87c70edd1baad6b0.js": "2d6e861ac802c2045c400d0929b501c355d648ed",
     "https:/WahidinAlambiyah.github.io/portfolioangular/scripts.8c844e0f4a27dcd1.js": "918911acf148c5fb11000ba58f7ba971cc71b517",
     "https:/WahidinAlambiyah.github.io/portfolioangular/styles.4724934ebfd13c1b.css": "f0342e3d99f58ba0093dd233812a462c54c7915b"
   },
