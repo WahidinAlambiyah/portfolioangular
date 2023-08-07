@@ -1,13 +1,13 @@
 {
 
-    "Header.Item1" : "About me",
-    "Header.Item2" : "Experience",
-    "Header.Item3" : "Projects",
-    "Header.Item4" : "Contact",
+    "Header.Item1" : "Tentang Saya",
+    "Header.Item2" : "Pengalaman",
+    "Header.Item3" : "Proyek",
+    "Header.Item4" : "Kontak",
     "Header.cvBtn" : "Resume",
-    "Header.cvName": "CV_Jose_Hernandez_Ingles.pdf",
+    "Header.cvName": "CV_Wahidin_In.pdf",
 
-    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Pretitle": "Hello! Nama Saya",
     "Banner.Description": "I have <span class='underline'>8+ years of experience</span> developing systems, microservices, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Java</span> and sometimes in <span class='underline'>Angular</span> applying good practices and development standards.",
     "Banner.ActionBtn": "Get in touch",
 

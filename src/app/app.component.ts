@@ -12,7 +12,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit{
-  title = 'wahidinhr-portfolio';
+  title = 'wahidin-portfolio';
   
   constructor(
     private titleService: Title,
