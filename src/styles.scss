@@ -102,6 +102,12 @@ a{
     }
 }
 
+.italic {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    font-style: italic;
+}
 .underline {
   text-decoration: none;
   display: inline-block;

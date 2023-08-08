@@ -7,13 +7,13 @@
     "Header.cvBtn" : "Resume",
     "Header.cvName": "CV_Wahidin_In.pdf",
 
-    "Banner.Pretitle": "Hello! Nama Saya",
-    "Banner.Description": "I have <span class='underline'>8+ years of experience</span> developing systems, microservices, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Java</span> and sometimes in <span class='underline'>Angular</span> applying good practices and development standards.",
-    "Banner.ActionBtn": "Get in touch",
+    "Banner.Pretitle": "Halo! Nama Saya",
+    "Banner.Description": "Saya sudah <span class='underline'>bekerja selama 8+ tahun</span> untuk mengembangkan sistem aplikasi, <span class='italic'>microservices</span>, menganalisa dan solusi teknologi untuk membuat aplikasi yang berguna. Saya berdedikasi untuk menulis dan <span class='italic'>refactoring clean</span>, <span class='italic'>reusable</span>, dan <span class='italic'>scalable</span> kode menggunakan <span class='underline'>Java</span> atau terkadang <span class='underline'>Angular</span> untuk penerapan praktik yang bagus dan standar dalam pengembangan aplikasi.",
+    "Banner.ActionBtn": "Kuy!!!!",
 
-    "AboutMe.Title": "About me",
+    "AboutMe.Title": "Tentang saya",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>8+ years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Laravel and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+        "Selama <span class='underline'>8+ tahun sebagai developer</span>, Saya berusaha untuk melatih keahlian setiap hari. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Laravel and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
         "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
         "Some of the technologies that I have trained and worked on include (but are not limited to):"
     ],
