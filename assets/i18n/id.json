@@ -8,7 +8,7 @@
     "Header.cvName": "CV_Wahidin_In.pdf",
 
     "Banner.Pretitle": "Hiii! Perkenalkan saya",
-    "Banner.Description": "Saya sudah <span class='underline'>bekerja selama 8+ tahun</span> untuk membangun dan mengembangkan sistem aplikasi <span class='italic'>microservices</span>, menganalisa dan memberikan solusi teknologi untuk membuat sistem aplikasi. Saya berdedikasi untuk menulis, <span class='italic'>refactoring clean</span>, <span class='italic'>reusable</span>, dan <span class='italic'>scalable</span> kode menggunakan <span class='underline'>Java</span> untuk penerapan praktik yang bagus dan standar dalam pengembangan aplikasi.",
+    "Banner.Description": "Saya sudah <span class='underline'>bekerja selama 8+ tahun</span> untuk menganalisa, membangun, mengembangkan dan memberikan solusi teknologi sistem aplikasi <span class='italic'>microservices</span>. Saya berdedikasi untuk menulis, <span class='italic'>refactoring clean</span>, <span class='italic'>reusable</span>, dan <span class='italic'>scalable</span> kode menggunakan <span class='underline'>Java</span> untuk penerapan praktik yang bagus dan standar dalam pengembangan aplikasi.",
     "Banner.ActionBtn": "Kenal lebih jauh Kuy!!!!",
 
     "AboutMe.Title": "Tentang saya",
@@ -27,7 +27,7 @@
             "Description": [
                 "Memimpin tim dari 8 orang untuk merencanakan, menganalisa, membangun, mengembangkan dan pemeliharaan sistem aplikasi pemesanan layanan <span class='italic'>freight forwarding</span>, <span class='italic'>custom clearance</span> dan <span class='italic'>domestic distribution</span> untuk <span class='italic'>backoffice</span> dan pelanggan dengan menggunakan Java, Angular, PostgreSQL, Redis, Disconf, Kafka, Webhook, and Websocket.",
                 "Memberikan saran pembuatan <span class='italic'>ERD</span> serta teknologi yang diperlukan.",
-                "Mengimplementasi CI / CD di Azure.",
+                "Mengimplementasi CI / CD di Azure. <span class='italic'>Refactoring</span> dan optimasi <span class='italic'>load times</span> aplikasi.",
                 "Meninjau kode sebelum proses <span class='italic'>deployment</span> dilakukan.",
                 "Pemeliharaan beberapa sistem aplikasi untuk internal perusahaan.",
                 "Mengembangkan teknologi untuk efisiensi proses penyimpanan data.",
@@ -36,7 +36,7 @@
             ]
         },
         {
-            "Tab": "PT Indocyber Global Teknologi",
+            "Tab": "Iglo",
             "Title": "Consultant",
             "Date": "March 2019 - February 2020",
             "Description": [
