@@ -7,47 +7,48 @@
     "Header.cvBtn" : "Resume",
     "Header.cvName": "CV_Wahidin_In.pdf",
 
-    "Banner.Pretitle": "Hello! Nama Saya",
-    "Banner.Description": "I have <span class='underline'>8+ years of experience</span> developing systems, microservices, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Java</span> and sometimes in <span class='underline'>Angular</span> applying good practices and development standards.",
-    "Banner.ActionBtn": "Get in touch",
+    "Banner.Pretitle": "Hiii! Perkenalkan saya",
+    "Banner.Description": "Saya sudah <span class='underline'>bekerja selama 8+ tahun</span> untuk membangun dan mengembangkan sistem aplikasi <span class='italic'>microservices</span>, menganalisa dan memberikan solusi teknologi untuk membuat sistem aplikasi. Saya berdedikasi untuk menulis, <span class='italic'>refactoring clean</span>, <span class='italic'>reusable</span>, dan <span class='italic'>scalable</span> kode menggunakan <span class='underline'>Java</span> untuk penerapan praktik yang bagus dan standar dalam pengembangan aplikasi.",
+    "Banner.ActionBtn": "Kenal lebih jauh Kuy!!!!",
 
-    "AboutMe.Title": "About me",
+    "AboutMe.Title": "Tentang saya",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>8+ years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Laravel and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
-        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
-        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+        "Selama <span class='underline'>8+ tahun sebagai developer</span>, Saya berusaha untuk melatih keahlian setiap hari. Saya sudah membuat <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, dan mencakup bagian <span class='italic'>frontend developer</span> dengan menggunakan <span class='underline'>Angular</span>. Saya telah memimpin tim yang memiliki empati, melatih motivasi kepada mitra, dan menetapkan rencana dan tujuan bersama.",
+        "Keahlian saya juga termasuk mengimplementasikan peningkatan sistem, mengoptimalkan situs, menstandarkan pola, serta menyarankan dan mengeksekusi ide yang menambah nilai pada proyek yang sedang saya kerjakan.",
+        "Beberapa teknologi yang sudah saya latih dan kerjakan termasuk (namun tidak terbatas pada):"
     ],
 
 
-    "Experience.Title": "Experience",
+    "Experience.Title": "Working Experience",
     "Experience.Jobs": [{
-            "Tab": "Project",
+            "Tab": "Anteraja",
             "Title": "Backend developer",
-            "Date": "May 2020 - Present",
+            "Date": "March 2019 - Present",
             "Description": [
-              "Creation and maintenance of a monitoring platform with graphics in WordPress.",
-              "Functional programming in templates and plugins to add the necessary monitoring features.",
-              "Implementation of continuous integration and daily backups.",
-              "Creation and maintenance of a second Monitoring Platform Done in Angular, Angular Material, Laravel, Mysql, RxJS, Sass with graphics (configurable), alarm system, and user management and configuration of general parameters.",
-              "Planning meetings in reports."
+                "Memimpin tim dari 8 orang untuk merencanakan, menganalisa, membangun, mengembangkan dan pemeliharaan sistem aplikasi pemesanan layanan <span class='italic'>freight forwarding</span>, <span class='italic'>custom clearance</span> dan <span class='italic'>domestic distribution</span> untuk <span class='italic'>backoffice</span> dan pelanggan dengan menggunakan Java, Angular, PostgreSQL, Redis, Disconf, Kafka, Webhook, and Websocket.",
+                "Memberikan saran pembuatan <span class='italic'>ERD</span> serta teknologi yang diperlukan.",
+                "Mengimplementasi CI / CD di Azure.",
+                "Meninjau kode sebelum proses <span class='italic'>deployment</span> dilakukan.",
+                "Pemeliharaan beberapa sistem aplikasi untuk internal perusahaan.",
+                "Mengembangkan teknologi untuk efisiensi proses penyimpanan data.",
+                "Mengembangkan sistem aplikasi dengan metode <span class='italic'>microservices</span>.",
+                "Mengembangkan sistem aplikasi dengan <span class='italic'>queueing process</span>."
             ]
         },
         {
-            "Tab": "Freelancer",
-            "Title": "Independent",
-            "Date": "May 2016 - Present",
+            "Tab": "PT Indocyber Global Teknologi",
+            "Title": "Consultant",
+            "Date": "March 2019 - February 2020",
             "Description": [
-              "Implementing continuous improvements, working on frontend and backend.",
-              "Creating platforms with Angular, Laravel, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-              "Automation of processes with data structures.",
-              "Design layout with SASS, Bootstrap, Materialize, Bulma, etc."
+              "Memberikan layanan IT untuk <span class='italic'>client</span>"
             ]
         },
         {
-            "Tab": "Moebius",
-            "Title": "FullStack developer",
-            "Date": "July 2017 - October 2018",
+            "Tab": "Padiciti",
+            "Title": "Backend developer",
+            "Date": "February 2016 - March 2019",
             "Description": [
+                "Leading a team of 4 people in the development of a Tourism Data management platform made in Angular, Laravel, and MySQL.",
               "Leading a team of 4 people in the development of a Tourism Data management platform made in Angular, Laravel, and MySQL.",
               "Implementation CI / CD in Azure. Refactoring and optimizing application load times.",
               "Coding of API requests with RxJS.",
