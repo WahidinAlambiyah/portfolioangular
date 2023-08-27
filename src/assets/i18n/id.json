@@ -7,17 +7,16 @@
     "Header.cvBtn" : "Resume",
     "Header.cvName": "CV_Wahidin_In.pdf",
 
-    "Banner.Pretitle": "Hiii! Perkenalkan saya",
-    "Banner.Description": "Saya sudah <span class='underline'>bekerja selama 8+ tahun</span> untuk membangun dan mengembangkan sistem aplikasi <span class='italic'>microservices</span>, menganalisa dan memberikan solusi teknologi untuk membuat sistem aplikasi. Saya berdedikasi untuk menulis, <span class='italic'>refactoring clean</span>, <span class='italic'>reusable</span>, dan <span class='italic'>scalable</span> kode menggunakan <span class='underline'>Java</span> untuk penerapan praktik yang bagus dan standar dalam pengembangan aplikasi.",
-    "Banner.ActionBtn": "Kenal lebih jauh Kuy!!!!",
+    "Banner.Pretitle": "Hiii! Perkenalkan,",
+    "Banner.Description": "Sudah <span class='underline'>8+ tahun bekerja</span> untuk menganalisa, membangun, mengembangkan dan memberikan solusi teknologi sistem aplikasi. Saya berdedikasi untuk menulis, <span class='italic'>refactoring</span>, <span class='italic'>reusable</span>, dan <span class='italic'>scalable</span> kode menggunakan <span class='underline'>Java</span> untuk penerapan praktik yang baik dan standar dalam pengembangan aplikasi.",
+    "Banner.ActionBtn": "Kenal lebih jauh, Kuy!!!!",
 
     "AboutMe.Title": "Tentang saya",
     "AboutMe.Paragraphs": [
-        "Selama <span class='underline'>8+ tahun sebagai developer</span>, Saya berusaha untuk melatih keahlian setiap hari. Saya sudah membuat <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, dan mencakup bagian <span class='italic'>frontend developer</span> dengan menggunakan <span class='underline'>Angular</span>. Saya telah memimpin tim yang memiliki empati, melatih motivasi kepada mitra, dan menetapkan rencana dan tujuan bersama.",
+        "Selama <span class='underline'>8+ tahun sebagai developer</span>, Saya berusaha untuk melatih keahlian setiap hari. Saya sudah membuat <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, dan mencakup bagian <span class='italic'>frontend developer</span> dengan menggunakan <span class='underline'>Angular</span>. Saya telah memimpin tim yang memiliki empati, melatih motivasi kepada rekan kerja, dan menetapkan rencana dan tujuan bersama.",
         "Keahlian saya juga termasuk mengimplementasikan peningkatan sistem, mengoptimalkan situs, menstandarkan pola, serta menyarankan dan mengeksekusi ide yang menambah nilai pada proyek yang sedang saya kerjakan.",
         "Beberapa teknologi yang sudah saya latih dan kerjakan termasuk (namun tidak terbatas pada):"
     ],
-
 
     "Experience.Title": "Working Experience",
     "Experience.Jobs": [{
@@ -25,22 +24,23 @@
             "Title": "Backend developer",
             "Date": "March 2019 - Present",
             "Description": [
-                "Memimpin tim dari 8 orang untuk merencanakan, menganalisa, membangun, mengembangkan dan pemeliharaan sistem aplikasi pemesanan layanan <span class='italic'>freight forwarding</span>, <span class='italic'>custom clearance</span> dan <span class='italic'>domestic distribution</span> untuk <span class='italic'>backoffice</span> dan pelanggan dengan menggunakan Java, Angular, PostgreSQL, Redis, Disconf, Kafka, Webhook, and Websocket.",
+                "Memimpin tim yang terdiri dari 8 orang untuk menganalisa, membangun, mengembangkan dan pemeliharaan sistem aplikasi SFI yang bergerak dibidang pemesanan layanan <span class='italic'>freight forwarding</span>, <span class='italic'>custom clearance</span> dan <span class='italic'>domestic distribution</span> untuk <span class='italic'>backoffice</span> dan pelanggan dengan menggunakan Java, Angular, PostgreSQL, Redis, Disconf, Kafka, Webhook, and Websocket.",
                 "Memberikan saran pembuatan <span class='italic'>ERD</span> serta teknologi yang diperlukan.",
-                "Mengimplementasi CI / CD di Azure.",
+                "Mengimplementasi CI / CD di Azure. <span class='italic'>Refactoring</span> dan optimasi <span class='italic'>load times</span> aplikasi.",
+                "Mengembangkan sistem aplikasi dengan metode <span class='italic'>microservices</span>.",
                 "Meninjau kode sebelum proses <span class='italic'>deployment</span> dilakukan.",
+                "Membuat <span class='italic'>sprint report</span> setiap 2 pekan untuk <span class='italic'>goals and plans</span>",
                 "Pemeliharaan beberapa sistem aplikasi untuk internal perusahaan.",
                 "Mengembangkan teknologi untuk efisiensi proses penyimpanan data.",
-                "Mengembangkan sistem aplikasi dengan metode <span class='italic'>microservices</span>.",
                 "Mengembangkan sistem aplikasi dengan <span class='italic'>queueing process</span>."
             ]
         },
         {
-            "Tab": "PT Indocyber Global Teknologi",
+            "Tab": "Iglo",
             "Title": "Consultant",
             "Date": "March 2019 - February 2020",
             "Description": [
-              "Memberikan layanan IT untuk <span class='italic'>client</span>"
+              "Memberikan layanan IT untuk <span class='italic'>client</span> AnterAja"
             ]
         },
         {
@@ -48,38 +48,22 @@
             "Title": "Backend developer",
             "Date": "February 2016 - March 2019",
             "Description": [
-                "Leading a team of 4 people in the development of a Tourism Data management platform made in Angular, Laravel, and MySQL.",
-              "Leading a team of 4 people in the development of a Tourism Data management platform made in Angular, Laravel, and MySQL.",
-              "Implementation CI / CD in Azure. Refactoring and optimizing application load times.",
-              "Coding of API requests with RxJS.",
-              "Creation of modules with complex reactive forms",
-              "Writing weekly reports about goals and plans."
+                "Mengembangkan sistem aplikasi OTA (<span class='italic'>Online Travel Agency</span>) untuk pemesanan tiket online dan hotel serta tempat rekreasi dan event.",
+                "Memimpin tim yang terdiri dari 3 orang untuk mengembangkan sistem aplikasi pembayaran yang terintegrasi dengan beberapa penyedia channel pembayaran dan bank.",
+                "Integrasi Pembayaran PLN, tagihan dan token dengan Bukopin",
+                "Integrasi layanan pemesanan Bus dengan Redbus",
+                "Memberikan pelayanan pengembangan dan pemeliharaan sistem pemesanan pesawat terbang Sriwijaya untuk Sriwijaya AIR KCP"
             ]
         },
         {
-            "Tab": "TechLatam",
-            "Title": "Frontend developer",
-            "Date": "February 2016 - May 2017",
+            "Tab": "Vensys",
+            "Title": "Fullstack developer",
+            "Date": "October 2014 - February 2016",
             "Description": [
-              "Creation of WordPress templates with ACF, functional programming in Javascript / jQuery, styles in SASS",
-              "integration of design improvements, and template loading times.",
-              "Effective communication with the design team, working with Avocode / Figma."
-            ]
-        },
-        {
-            "Tab": "CANTV",
-            "Title": "System analyst",
-            "Date": "November 2015 - December 2016",
-            "Description": [
-              "Programming of new functionalities for an existing employee management platform made in Angular and ExpressJS.",
-              "Perform refactoring of old code. Ensuring compatibility of every dependency in every update, along with regular Angular update as well."
-            ]
-        },
-        {
-            "Tab": "IEP",
-            "Title": "English teacher",
-            "Date": "January 2015 - July 2015",
-            "Description": ["Teaching English at a basic level to an enrollment of more than 200 students."]
+                "Menegembangkan sistem aplikasi <span class='italic'>Financial Messaging</span> ClickMessenger menggunakan Java SpringMVC, JSP, JQuery and MySQL",
+                "integration of design improvements, and template loading times.",
+                "Effective communication with the design team, working with Avocode / Figma."
+            ]       
         }
     ],
 
